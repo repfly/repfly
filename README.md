@@ -8,7 +8,7 @@ Most of my personal projects live on a self-hosted [Gitea](https://about.gitea.c
 
 ---
 
-`Swift` `SwiftUI` `UIKit` `TCA` `VIPER` `Combine` `Swift Concurrency` `SwiftData` `Docker` `CI/CD` `MVVM` `
+`Swift` `SwiftUI` `UIKit` `TCA` `VIPER` `Combine` `Swift Concurrency` `SwiftData` `Docker` `CI/CD` `MVVM`
 
 ---
 
